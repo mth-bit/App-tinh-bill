@@ -31,7 +31,7 @@ MENU = {
 # ==============================
 # TIÊU ĐỀ
 # ==============================
-st.title("🍽️ RESTAURANT BILL")
+st.title("🍽️ bé liên 7 mào")
 st.caption("Ứng dụng tính tiền nhà hàng")
 
 st.divider()
